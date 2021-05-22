@@ -52,7 +52,6 @@ exports.handler = async (event) => {
 
 }    
     
-// send(d)
 
 
 
